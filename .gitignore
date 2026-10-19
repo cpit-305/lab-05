@@ -1,3 +1,5 @@
+# Downloaded text files
+book*.txt
 # Compiled class file
 *.class
 
